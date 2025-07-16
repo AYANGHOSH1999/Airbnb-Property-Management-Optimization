@@ -1,6 +1,7 @@
 # Airbnb-Property-Management-Optimization
 
 # 🏡 Airbnb Property Management Optimization (Tableau Dashboard)
+Dashboard link : https://public.tableau.com/app/profile/ayan.ghosh7733/viz/prpjectcompelete/Story1
  
 **Tool Used**: Tableau  
 **Focus**: Behavioral analytics & operational optimization on the Airbnb platform
